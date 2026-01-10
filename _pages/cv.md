@@ -11,54 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **MSc Artificial Intelligence** - Johannes Kepler University Linz, Austria *(ongoing)*
+* **MSc Bioinformatics** - University of Vienna, Austria *(early 2026)*
+  * Master's thesis at the Institute for Theoretical Chemistry
+* **BSc Biology** - Karlsruhe Institute of Technology, Germany (2018)
+  * Thesis: "Effects of plant hormones on a kinesin gene in rice"
 
-Work experience
+Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Automated Dataset Splitting Framework** (2023)
+  * Division of Computational Systems Biology (CUBE) at CeMESS, Vienna, Austria
+  * Design and implementation of an automated framework for splitting sequence datasets for machine learning applications
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Management System Development** (2017–2020)
+  * Jürgen Matthes, Eastbourne, United Kingdom
+  * Design, development and implementation of a modern management system with API integration and automation
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Programming Languages**
+* Python, R, C++, SQL, PHP, HTML, LaTeX
 
-Publications
+**Frameworks & Libraries**
+* PyTorch, pandas, polars, numpy, matplotlib, seaborn
+
+**Systems & Tools**
+* Linux, Docker, Git, HPC, SLURM, Weights & Biases, macOS, Windows
+
+Languages
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* German (Native)
+* English (Fluent)
+* Latin (Basic)
