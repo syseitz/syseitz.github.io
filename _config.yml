@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-GB"
 site_theme               : "default"
-title                    : "S. Y. Seitz"
+title                    : "Sören Yannick Seitz"
 title_separator          : "-"
-name                     : &name "S. Y. Seitz"
-description              : &description "MSc Student in Bioinformatics & Artificial Intelligence"
+name                     : &name "Sören Yannick Seitz"
+description              : &description "MSc Bioinformatics | MSc Artificial Intelligence"
 url                      : https://syseitz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "syseitz/syseitz.github.io"
@@ -23,13 +23,13 @@ repository               : "syseitz/syseitz.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "S. Y. Seitz"
-  pronouns         : # example: "she/her"
-  bio              : "MSc Student in Bioinformatics (University of Vienna) & Artificial Intelligence (JKU Linz)"
-  location         : "Austria"
-  employer         :
+  name             : "Sören Yannick Seitz"
+  pronouns         : # example: "he/him"
+  bio              : "MSc Bioinformatics (University of Vienna) | MSc Artificial Intelligence (JKU Linz)"
+  location         : "Vienna, Austria"
+  employer         : "University of Vienna"
   uri              : # URL
-  email            : # Email address
+  email            : "soerenseitz@yahoo.co.uk"
 
   # Academic websites
   academia         : # URL
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "syseitz"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
