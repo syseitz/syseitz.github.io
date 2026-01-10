@@ -22,7 +22,7 @@ repository               : "syseitz/syseitz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://github.com/syseitz.png"
   name             : "Sören Yannick Seitz"
   pronouns         : # example: "he/him"
   bio              : "MSc Bioinformatics (University of Vienna) | MSc Artificial Intelligence (JKU Linz)"
