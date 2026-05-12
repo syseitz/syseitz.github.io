@@ -22,6 +22,7 @@ Education
 - **MSc Artificial Intelligence** - Johannes Kepler University Linz *(ongoing)*
 - **MSc Bioinformatics** - University of Vienna *(thesis stage)*
   - Master's thesis at the Institute for Theoretical Chemistry
+  - Thesis: "Data-Driven Discovery of RNA Structural Motifs and Compositional Signals across Eukaryotic Transcriptomes"
 - **BSc Biology** - Karlsruhe Institute of Technology (2018)
   - Thesis: "Effects of plant hormones on a kinesin gene in rice"
 
